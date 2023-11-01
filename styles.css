@@ -165,7 +165,7 @@ body {
   color: var(--white);
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  justify-content: center;
   align-items: center;
   border-radius: 2vmin;
   padding: 2vh;
