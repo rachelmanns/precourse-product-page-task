@@ -109,6 +109,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   gap: 4vmin;
+  text-transform: uppercase;
 }
 
 .company-category {
